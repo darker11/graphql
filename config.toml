@@ -1,0 +1,2 @@
+Addr = "0.0.0.0:8080"
+MysqlAddr = "mysql连接地址"
